@@ -8,4 +8,11 @@
 - 💬 Ask me about Linux
 - ⚡ Fun fact: You're in a simulation..!!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakashh21 &theme=radical) 
+
+<div align="center">
+  
+![Prakashh21's github stats](https://github-readme-stats.vercel.app/api?username=Prakashh21&show_icons=true)
+
+</div>
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakashh21 &theme=radical)  -->
